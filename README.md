@@ -8,7 +8,7 @@ A collection of tax-related tools and utilities designed to simplify tax calcula
 - Tax calculation tools
 - Financial calculations
 - Simple and user-friendly interface
-- Responsive design
+- Responsive design 
 - Easy navigation
 
 ## Technologies Used
