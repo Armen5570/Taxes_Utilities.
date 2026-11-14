@@ -1,49 +1,29 @@
-                                         
-# Taxes Utilities    
- 
-A collection of tax-related tools and utilities designed to simplify tax calculations and automate everyday financial tasks.
+# Taxes Utilities 💰
 
-## Features 
+**Taxes Utilities** is a simple financial utility designed to help users understand their income, taxes, deductions, and everyday household expenses.
 
-- Tax calculation tools
-- Financial calculations
-- Simple and user-friendly interface
-- Responsive design 
-- Easy navigation
+## About
 
-## Technologies Used
+The purpose of this project is to bring different financial calculations together in one convenient place. It helps users explore how their income can be divided into different deductions and expenses.
 
-- HTML5
-- CSS3
-- JavaScript
+## How It Works
 
-## Project Structure
+Users enter their salary into the application. The system displays an example breakdown of income deductions, including taxes, social payments, and other categories.
 
-```text
-Taxes_Utilities/
-├── index.html
-├── style.css
-├── app.js
-└── README.md
-```
+It also provides an overview of common household expenses, such as electricity, water, gas, internet, phone, waste collection, and building maintenance.
 
-## Getting Started
+By displaying these values together, the application helps users get a clearer picture of their income and everyday expenses.
 
-1. Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Start using Taxes Utilities!
+## Main Purpose
 
-## Purpose
+Taxes Utilities aims to make financial information easier to understand and everyday expense calculations more convenient.
 
-The goal of this project is to make everyday financial calculations easier, faster, and more accessible.
+It is designed for people who want to explore their income, understand different expense categories, and get an overview of their household costs.
 
-## Author
+## Important Note
 
-**Armen5570**
-
-GitHub: https://github.com/Armen5570
+This project is intended for educational and demonstration purposes. Some displayed values are examples and may not reflect actual tax rates or current utility prices. It should not be used for official financial calculations.
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
+**Created by [Armen5570](https://github.com/Armen5570)**
