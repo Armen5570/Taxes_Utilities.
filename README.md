@@ -1,4 +1,4 @@
-# Taxes Utilities 💰
+# Taxes Utilities 💰 
 
 **Taxes Utilities** is a simple financial utility designed to help users understand their income, taxes, deductions, and everyday household expenses.
 
